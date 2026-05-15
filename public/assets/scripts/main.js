@@ -198,7 +198,7 @@ document.addEventListener('DOMContentLoaded', () => {
             'hero.check1':   'Sin tarjeta de cr\u00e9dito requerida',
             'hero.check2':   'Configuraci\u00f3n en menos de 10 minutos',
             'hero.check3':   'Soporte multiidioma incluido',
-            'hero.cta':      'Solicitar demo gratuita',
+            'hero.cta':      'Solicitar demo ',
             'hero.play':     'Ver c\u00f3mo funciona',
 
             // Mockup
@@ -334,7 +334,7 @@ document.addEventListener('DOMContentLoaded', () => {
             // Pricing
             'pricing.label':       'Precios',
             'pricing.title':       'Planes que crecen contigo',
-            'pricing.subtitle':    'Comienza gratis. Escala cuando tu operaci\u00f3n lo exija.',
+            'pricing.subtitle':    'Comienza ahora. Escala cuando tu operaci\u00f3n lo exija.',
             'pricing.monthly':     'Mensual',
             'pricing.yearly':      'Anual \u2014 ahorra 20%',
             'pricing.note':        '\u00a7 Todos los planes incluyen SSL, backups diarios y soporte en espa\u00f1ol.',
@@ -390,7 +390,7 @@ document.addEventListener('DOMContentLoaded', () => {
             // CTA
             'cta.title':    '\u00bfListo para decirle adi\u00f3s<br>al caos del combustible?',
             'cta.subtitle': '\u00danete a m\u00e1s de 200 empresas que ya gestionan sus pedidos de combustible con FullTank. Sin contratos. Sin complicaciones.',
-            'cta.btn':      'Empezar gratis ahora \u2192',
+            'cta.btn':      'Empezar ahora \u2192',
             'cta.micro1':   'Sin tarjeta de cr\u00e9dito',
             'cta.micro2':   'Cancela en cualquier momento',
             'cta.micro3':   'Soporte en espa\u00f1ol',
@@ -401,7 +401,7 @@ document.addEventListener('DOMContentLoaded', () => {
             'footer.col1.li1':  'C\u00f3mo funciona',
             'footer.col1.li2':  'Beneficios',
             'footer.col1.li3':  'Planes y precios',
-            'footer.col1.li4':  'Demo gratuita',
+            'footer.col1.li4':  'Demo Ahora',
             'footer.col1.soon': 'Pronto',
             'footer.col2.title':'Empresa',
             'footer.col2.li1':  'Sobre PrimeFuel',
